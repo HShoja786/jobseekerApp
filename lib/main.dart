@@ -9,6 +9,12 @@ import 'screens/profile_screen.dart';
 import 'screens/auth_screen.dart';
 import 'providers/app_state.dart';
 
+/* 
+
+Author : Hafeezullah Shoja
+
+*/
+
 void main() {
   runApp(const JobSeekerApp());
 }
